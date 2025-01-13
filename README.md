@@ -4,7 +4,7 @@
 This is my personal **Cybersecurity Portfolio**, showcasing my **projects, skills, and contact information**. It serves as a demonstration of my expertise in ethical hacking, networking, and cybersecurity-related research.  
 
 ## 🌐 Live Preview  
-🔗 [View Portfolio](https://husnainzargar.github.io/Portfolio)  
+🔗 [View Portfolio](https://husnainzargar.github.io/Portfolio/home.html)  
 
 ## 🏠 Sections in Portfolio  
 ### **Home**  
