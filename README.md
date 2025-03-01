@@ -2,6 +2,8 @@
 
 It is a Demo Portfolio not an Actual Portfolio
 
+Live URL: https://husnainzargar.github.io/Portfolio/
+
 ## Overview
 
 This repository contains my **first portfolio project**, a static website built with HTML and CSS to showcase my cybersecurity skills, projects, certifications, and interests. **This is not my final portfolio**—it's a practice project designed to help me develop my web development skills while presenting my journey as an aspiring ethical hacker and cybersecurity student.
